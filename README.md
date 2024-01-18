@@ -1,18 +1,12 @@
 # Hello 👋 I'm Adil
 
-## From \*_Morocco_
+## Welcome to my profile ✏️
+
+## From _Morocco_
 
 ## Where i live?
 
 - Dilbeek 🇧🇪🏠
-
-## Welcome to my profile ✏️
-
-## I'm actually learning
-
-- HTML, CSS, Js 💻
-
-![development](./img/200w.webp)
 
 ## Hobbies
 
