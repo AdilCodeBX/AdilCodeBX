@@ -8,6 +8,10 @@
 
 - Dilbeek 🇧🇪🏠
 
+## I'm actually learning 💻
+
+-HTLM, CCS
+
 ## Hobbies
 
 - Basketball 🏀
