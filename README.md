@@ -8,7 +8,7 @@
 
 ## Where i live? 🌍
 
-- Dilbeek Belgium
+- Brussels Belgium
 
 ## I'm actually learning 💻
 
