@@ -10,12 +10,12 @@
 
 - Brussels Belgium
 
-## I'm an junior front-end web developer 💻
+## I'm a junior front-end web developer 💻
 
 - Having recently completed my training at Hack Your Future in Brussels, where I learned HTML, CSS, JavaScript, and React, I am now fully immersing myself in the tech world. I am ready to take on new challenges and create engaging front-end web applications.".
 
 ![logo html](./img/html5logo.png) ![logo css](./img/CSS3logo_64x64.png)
-![logo js](./img/jslogo_64x64.png) ![logo react](./img/React-icon.svg)
+![logo js](./img/jslogo_64x64.png) ![logo react](./img/React-icon.pngg)
 
 ![development](./img/200w.webp)
 
